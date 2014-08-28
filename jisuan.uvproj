@@ -366,6 +366,11 @@
               <FileType>1</FileType>
               <FilePath>.\src\key.c</FilePath>
             </File>
+            <File>
+              <FileName>jisuan.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\jisuan.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>

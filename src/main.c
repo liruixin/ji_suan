@@ -1,6 +1,7 @@
 #include <reg52.h>
 #include "lcd.h"
 #include "key.h"
+#include "jisuan.h"
 void main()
 {
   init();
